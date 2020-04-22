@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # Python program to draw 
 # Rainbow Benzene 
 # using Turtle Programming 
